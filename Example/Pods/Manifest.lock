@@ -1,0 +1,23 @@
+PODS:
+  - FYFCacheHelper (0.1.0):
+    - YYCache
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - FYFCacheHelper (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - YYCache
+
+EXTERNAL SOURCES:
+  FYFCacheHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FYFCacheHelper: ea111ef7a3fc2c0c61ca0c8d8a5ab54f86d03150
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: 963155bfa6cafc27c185b4971e548b10949fd361
+
+COCOAPODS: 1.11.3

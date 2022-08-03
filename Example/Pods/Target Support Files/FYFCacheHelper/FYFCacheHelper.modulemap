@@ -1,0 +1,6 @@
+framework module FYFCacheHelper {
+  umbrella header "FYFCacheHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
